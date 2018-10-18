@@ -1,0 +1,21 @@
+body{
+    box-sizing: border-box;
+}
+
+.main-container{
+    /* background-image: url("https://openclipart.org/download/277023/Grand-Piano-Musical-Notes-Black.svg");
+    background-size: contain; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+    margin-top: 5em;
+    height: 100vh;
+}
+
+#main-song{
+    margin-top: 1em;
+}
+#lyric-button{
+    margin-top: 1em;
+}
